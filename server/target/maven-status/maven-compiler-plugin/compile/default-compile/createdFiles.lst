@@ -1,0 +1,9 @@
+Controller\SequenceController.class
+Connection\DatabaseConnection.class
+Controller\ResultController.class
+Controller\UserController.class
+Service\Client.class
+Model\UserModel.class
+Service\ClientManager.class
+Run\ServerRun.class
+Service\GameSession.class
